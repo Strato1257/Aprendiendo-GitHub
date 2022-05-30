@@ -1,4 +1,8 @@
 Archivo1
+<<<<<<< HEAD
 Cambio hecho en ramaB
 Cambio 2 hecho en rama 2.
 
+=======
+Rama b
+>>>>>>> ramaB
