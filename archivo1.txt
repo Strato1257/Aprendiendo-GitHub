@@ -1,1 +1,4 @@
 Archivo1
+Cambio hecho en ramaB
+Cambio 2 hecho en rama 2.
+
